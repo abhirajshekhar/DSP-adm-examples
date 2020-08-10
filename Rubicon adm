@@ -1,0 +1,157 @@
+ < script type = "text/javascript" >
+ 	rubicon_cb = Math.random();
+ rubicon_rurl = document.referrer;
+ if (top.location == document.location) {
+ 	rubicon_rurl = document.location;
+ }
+ rubicon_rurl = escape(rubicon_rurl);
+ window.rubicon_ad = "4105614" + "." + "js";
+ window.rubicon_creative = "4505684" + "." + "js"; <
+ /script> <
+ div data - rp - type = "trp-display-creative"
+ data - rp - impression - id = "66177bdc-159e-4bf8-ba17-b59dde79c726"
+ data - rp - aqid = "5096:102451"
+ data - rp - acct - id = "17328" >
+ 	<
+ 	script type = "text/javascript" > ! function() {
+ 		"use strict";
+ 		var e = window.mraid;
+
+ 		function t() {
+ 			try {
+ 				(e = window.mraid).isViewable && e.isViewable() ? i() : e.addEventListener("viewableChange", a)
+ 			} catch (e) {}
+ 		}
+
+ 		function a(t) {
+ 			try {
+ 				t && (i(), e.removeEventListener("viewableChange", a))
+ 			} catch (e) {}
+ 		}
+
+ 		function i() {
+ 			(new Image).src = "https://beacon-us-west.rubiconproject.com/beacon/d/66177bdc-159e-4bf8-ba17-b59dde79c726?oo=0&accountId=17328&siteId=169752&zoneId=818586&sizeId=15&e=6A1E40E384DA563B3F36929CC60AD65BB53A6FB3FACD494C5DB4169F7EC02C676F8C87DED1CF03832209E11EDA011917A4913830A0FCFA93FC2BC38F7BD6E9CC223D4D91B50F1589AF2163A0252290C9E603692D57B4115FBBFDDB5F1138671264CE5736C405CA86F319FB5C2F7A482A38755A7550BA7CC0098FB750A7E39E5D81621EACF7DD4B1C9264273048818CA16BC1BB86CE88B29CBC64802D75C3F35DD2581DB4CC08D31B11D176AF3C74C0469E49721F801C21B45705DDA3B3A24A7354534B7441C4634BCDA10306204D320B";
+ 			(new Image).src = "https://impression-east.liftoff.io/rubicon/win_notice?ad_group_id=109133&channel_id=26&creative_id=102451&device_id_sha1=30363c2373ed992068b6e0af49396b94236783f9&source_app_store_id=com.taggedapp&bid_ts=1597053387175&auction_id=72d594cd4cba581bffa7c20e79ddb8414e92664d_15&auction_price=AF35B60C366DE21C&origin=haggler-rubicon260";
+ 		}
+ 		try {
+ 			if (e && "object" == typeof e) t();
+ 			else {
+ 				var n = document.createElement("script");
+ 				n.type = "text/javascript", n.onload = t, n.src = "mraid.js", document.head.appendChild(n)
+ 			}
+ 		} catch (e) {}
+ 	}(); < /script>
+
+ <
+ div >
+ 	<
+ 	meta charset = "utf-8" / >
+ 	<
+ 	meta name = "viewport"
+ content = "width=device-width,initial-scale=1,user-scalable=no" / >
+ 	<
+ 	a id = "exchange-ping-url"
+ href = "http://beacon-nf.rubiconproject.com/beacon/v2/rs/0/66177bdc-159e-4bf8-ba17-b59dde79c726/0/xo5v_A3gdMndjs4JS4fDQtNjtdU/?url=https%3A%2F%2Fcdn.liftoff.io%2Ftracking_pixel.gif"
+ style = "display:none" > < /a> <
+ 	script > window.LIFTOFF_START_TS = Date.now() < /script> <
+ 	script src = "mraid.js" > < /script> <
+ 	div style = "display:none" >
+ 	<
+ 	img id = "liftoff-beacon"
+ src = "https://impression-east.liftoff.io/rubicon/beacon?ad_group_id=109133&amp;channel_id=26&amp;creative_id=102451&amp;auction_id=72d594cd4cba581bffa7c20e79ddb8414e92664d_15&amp;origin=haggler-rubicon260" / >
+ 	<
+ 	/div> <
+ 	script src = "https://cdn.liftoff.io/resources/polyfills-247e0ad00ecf7028846d.js" > < /script> <
+ 	link href = "https://cdn.liftoff.io/resources/liftoff-7971be576fd006dbabd5.css"
+ rel = "stylesheet" / >
+ 	<
+ 	script src = "https://cdn.liftoff.io/resources/liftoff-a2eed2a1bb74499d6283.js" > < /script> <
+ 	link href = "https://cdn.liftoff.io/resources/generic-cta-636a28662542dfd15f58.css"
+ rel = "stylesheet" / >
+ 	<
+ 	link href = "https://cdn.liftoff.io/resources/image-switcher-00990b8622c279b683bf.css"
+ rel = "stylesheet" / >
+ 	<
+ 	link href = "https://cdn.liftoff.io/resources/image-ffd2a9d98b04ddb11a35.css"
+ rel = "stylesheet" / >
+ 	<
+ 	script src = "https://cdn.liftoff.io/resources/generic-cta-bcc0767c589dee658422.js" > < /script> <
+ 	script src = "https://cdn.liftoff.io/resources/simple-text-594e4e5bdb428287dbda.js" > < /script> <
+ 	script src = "https://cdn.liftoff.io/resources/image-0b3f42fd890001036051.js" > < /script> <
+ 	script src = "https://cdn.liftoff.io/resources/image-switcher-cbff0f1d24562eefaa9b.js" > < /script> <
+ 	script >
+ 	Liftoff.init(JSON.parse(decodeURIComponent('{"pinpoint_url":"https://click.liftoff.io/v1/campaign_click/1X3xY1q_RFFxRQkjv4yvUsjoV8DQUFqmhTf5Qfz8Rb05_lP7MIxxvy0acNGzEKeoz6bd58lhFih86szBdJEdo2V8h2Y1QYffvbJettB8LNq8wtI-JBDbhVpVYRfH-pN1cKFh74hb3syasJ0KunIdlCRFiW7-vZTJw_KssHyOiUVcEMegiINBrYYZJo3qqpyKZuK-AREI9UjKCX63KsQ7dwyRmMBTNwHGjPlAPwQ3VuHOHN_6h4MxyIHcDqH93tywIM5-akyL1gu0KOHwKicC7a7brKyxARsjuazMzxFjVF-gjZ3ctK6vLAWLQTif8rF_1lU7MRpmNhJkLHVR_uqESU-6YT3gxzrUBNPpmJJWnUEy","bid_context":{"adexp_logging_frequency":0.075,"is_rewarded":false,"dest_app_platform":"android","dest_app_id":2793,"ad_group_id":109133,"app_id_external":"a40ac5cc3b","supports_native_browser":false,"spend_type":"ua","bid_request_at":"2020-08-10T09:56:27Z","is_ua_or_abr":true,"ec2_region":"us-east-1","enable_html_return":null,"city":"Baltimore","creative_id":102451,"width":300,"force_custom_close":false,"source_app_name":"Tagged - Meet, Chat %26 Dating","longitude":-76.635,"is_reengagement":false,"template_config_id":94,"size":"300x250","channel_id":26,"no_custom_close":false,"source_app_genre":"Social","connection_type":"cellular","supports_mraid":true,"source_app_id":"com.taggedapp","device_family":"Mobile","dest_app_russian_age_rating":16,"language":"en","zip":"21211","region_code":"MD","bid_request_id":"72d594cd4cba581bffa7c20e79ddb8414e92664d_15","device_id_type":"google-aid","device_id_sha1":"30363c2373ed992068b6e0af49396b94236783f9","is_interstitial":false,"latitude":39.3298,"template_md5":"madlib-efebf5ce9109e0b577ae","exchange":"rubicon","is_skippable":null,"device_id":"103f4d23-ca7d-4cbd-9e46-1de59f8b4d2a","vast_companion_types":null,"country":"USA","ab_tests":%5B"vast-tracking-events-experiment"%5D,"platform":"android","height":250,"china_domain":"chinaliftoff.io"},"enable_html_return":false,"enable_logging":false,"html_return_delay":"0","logging_endpoint":"https://adexp.liftoff.io","creative_policy":{"show_chinese_watermark":false,"show_ad_choices":false,"use_custom_close":false,"audio_policy":"always-mute","remove_ad_wrapper":false,"russian_age_rating":null,"close_delay":0,"add_border":false,"animation_duration_limit":0,"block_strobing":false,"block_notifications":false},"products":%5B%5D}')), {
+ 		image_originals: {
+ 			"548746": {
+ 				"id": 548746,
+ 				"image_versions": [{
+ 					"id": 625604,
+ 					"version-id": 1,
+ 					"public-url": "https://cdn.liftoff.io/customers/531fa32d8a/images/v1/6e087a5b57.gif",
+ 					"width": 512,
+ 					"height": 512,
+ 					"mime-type": "image/gif"
+ 				}]
+ 			},
+ 			"548734": {
+ 				"id": 548734,
+ 				"image_versions": [{
+ 					"id": 625592,
+ 					"version-id": 1,
+ 					"public-url": "https://cdn.liftoff.io/customers/531fa32d8a/images/v1/74d0f89da6.jpg",
+ 					"width": 800,
+ 					"height": 800,
+ 					"mime-type": "image/jpeg"
+ 				}]
+ 			},
+ 			"548735": {
+ 				"id": 548735,
+ 				"image_versions": [{
+ 					"id": 625593,
+ 					"version-id": 1,
+ 					"public-url": "https://cdn.liftoff.io/customers/531fa32d8a/images/v1/a64edbc211.jpg",
+ 					"width": 800,
+ 					"height": 800,
+ 					"mime-type": "image/jpeg"
+ 				}]
+ 			},
+ 			"548736": {
+ 				"id": 548736,
+ 				"image_versions": [{
+ 					"id": 625594,
+ 					"version-id": 1,
+ 					"public-url": "https://cdn.liftoff.io/customers/531fa32d8a/images/v1/b6c9443f22.jpg",
+ 					"width": 800,
+ 					"height": 800,
+ 					"mime-type": "image/jpeg"
+ 				}]
+ 			},
+ 			"548733": {
+ 				"id": 548733,
+ 				"image_versions": [{
+ 					"id": 625591,
+ 					"version-id": 1,
+ 					"public-url": "https://cdn.liftoff.io/customers/531fa32d8a/images/v1/8eb79d9d30.jpg",
+ 					"width": 800,
+ 					"height": 800,
+ 					"mime-type": "image/jpeg"
+ 				}]
+ 			}
+ 		},
+ 		video_originals: {},
+ 	}, {
+ 		template: {},
+ 		creative: JSON.parse(decodeURIComponent('{"scenes":%5B{"id":"main","layoutID":52,"transition":null,"layoutContent":{"css":{"CTA":{"font-size":"12px"},"Copy":{"padding":"10px 0","z-index":"2","font-size":"14px","text-align":"center","font-weight":"300","line-height":"17px","letter-spacing":"0.2px"},"Icon":{"overflow":"hidden","border-radius":"25%25"},"Name":{"padding":"0","font-size":"18px","margin-top":"5px","font-weight":"500","line-height":"20px"},"Caption":{"color":"%23666","font-size":"13px","line-height":"18px"},"Foreground":{"pointer-events":"none"},"CONTAINER - Header":{"z-index":"2"}},"containers":%5B{"id":"Background","children":%5B%5D},{"id":"CONTAINER","children":%5B{"id":"CONTAINER - Header","children":%5B{"id":"Icon","children":%5B%5D},{"id":"CONTAINER - Name","children":%5B{"id":"Name","children":%5B%5D},{"id":"Caption","children":%5B%5D},{"id":"CTA","children":%5B%5D}%5D}%5D},{"id":"Copy","children":%5B%5D},{"id":"CONTAINER - Main Content","children":%5B{"id":"Main Content - Background","children":%5B%5D},{"id":"Main Content","children":%5B%5D}%5D}%5D},{"id":"Foreground","children":%5B%5D}%5D,"constraints":{"CONTAINER - Main Content":{"top":{"edge":"bottom","anchor":"Copy","distance":"4px"},"left":0,"right":0,"bottom":0},"Copy":{"top":{"edge":"bottom","anchor":"CONTAINER - Header","distance":"4px"},"left":"8px","right":"8px","centerHorizontal":true},"Main Content - Background":{"top":0,"left":0,"right":0,"bottom":0},"CTA":{"right":0,"bottom":"2.5px","height":"25px"},"Icon":{"top":0,"left":0,"width":"50px","matchHeightToWidth":true},"CONTAINER - Name":{"top":0,"left":{"edge":"right","anchor":"Icon","distance":"8px"},"right":0,"bottom":0},"Foreground":{"top":0,"left":0,"right":0,"bottom":0},"CONTAINER - Header":{"top":"8px","left":"8px","right":"8px","height":"50px"},"Name":{"top":0,"left":0,"height":"20px"},"Main Content":{"top":0,"left":0,"right":0,"bottom":0},"Background":{"top":0,"left":0,"right":0,"bottom":0},"CONTAINER":{"top":0,"left":0,"right":0,"bottom":0},"Caption":{"top":{"edge":"bottom","anchor":"Name","distance":0},"left":0,"right":{"edge":"left","anchor":"CTA","distance":"8px"},"bottom":0}},"clickTargets":%5B%5D,"coordination":%5B%5D,"componentParams":{"CTA":{"params":{"blink":{"type":"boolean","value":false},"uaCTA":{"type":"text","value":"INSTALL"},"abrCTA":{"type":"text","value":"OPEN"},"activationCTA":{"type":"text","value":null},"animateOnClickAnywhere":{"type":"boolean","value":false}},"component":"generic-cta"},"Copy":{"params":{"text":{"type":"text","value":"Waiting for you here in BIGO LIVE"},"maxLines":{"type":"number","value":null}},"component":"simple-text"},"Icon":{"params":{"width":{"type":"text","value":"100%25"},"animateInMethod":{"type":"text","value":null},"height":{"type":"text","value":"100%25"},"image":{"type":"image_original","value":548746},"hpos":{"type":"text","value":"center"},"style":{"type":"style","value":null},"animation":{"type":"text","value":null},"vpos":{"type":"text","value":"center"},"size":{"type":"text","value":"contain"}},"component":"image"},"Name":{"params":{"text":{"type":"text","value":"BigoLive"},"maxLines":{"type":"number","value":1}},"component":"simple-text"},"Caption":{"params":{"text":{"type":"text","value":"I am here for you"},"maxLines":{"type":"number","value":1}},"component":"simple-text"},"Main Content":{"params":{"images":{"type":"array","value":%5B{"image":{"type":"component","value":{"params":{"width":{"type":"text","value":"100%25"},"animateInMethod":{"type":"text","value":null},"height":{"type":"text","value":"100%25"},"image":{"type":"image_original","value":548734},"hpos":{"type":"text","value":"center"},"style":{"type":"style","value":null},"animation":{"type":"text","value":null},"vpos":{"type":"text","value":"center"},"size":{"type":"text","value":"contain"}},"component":"image"}}},{"image":{"type":"component","value":{"params":{"width":{"type":"text","value":"100%25"},"animateInMethod":{"type":"text","value":null},"height":{"type":"text","value":"100%25"},"image":{"type":"image_original","value":548735},"hpos":{"type":"text","value":"center"},"style":{"type":"style","value":null},"animation":{"type":"text","value":null},"vpos":{"type":"text","value":"center"},"size":{"type":"text","value":"contain"}},"component":"image"}}},{"image":{"type":"component","value":{"params":{"width":{"type":"text","value":"100%25"},"animateInMethod":{"type":"text","value":null},"height":{"type":"text","value":"100%25"},"image":{"type":"image_original","value":548736},"hpos":{"type":"text","value":"center"},"style":{"type":"style","value":null},"animation":{"type":"text","value":null},"vpos":{"type":"text","value":"center"},"size":{"type":"text","value":"contain"}},"component":"image"}}},{"image":{"type":"component","value":{"params":{"width":{"type":"text","value":"100%25"},"animateInMethod":{"type":"text","value":null},"height":{"type":"text","value":"100%25"},"image":{"type":"image_original","value":548733},"hpos":{"type":"text","value":"center"},"style":{"type":"style","value":null},"animation":{"type":"text","value":null},"vpos":{"type":"text","value":"center"},"size":{"type":"text","value":"contain"}},"component":"image"}}}%5D},"animation":{"type":"text","value":"swipe"},"animationDelay":{"type":"number","value":1500},"swipeDirection":{"type":"text","value":"left"},"animationDuration":{"type":"number","value":500}},"component":"image-switcher"}}}}%5D}')),
+ 	}); <
+ /script> <
+ /div>
+
+ <
+ /div>
+
+
+
+
+
+
+ "
