@@ -1,0 +1,26 @@
+{
+	"PubMatic_Bid": {
+		"ecpm": 0.827289,
+		"impid": "C2BE0E5A-37C8-4F00-9F21-9A208E3B77D4",
+		"oid": "C2BE0E5A-37C8-4F00-9F21-9A208E3B77D4",
+		"w": 320,
+		"h": 50,
+		"creative_tag": "<span class=\"PubAPIAd\"  id=\"C2BE0E5A-37C8-4F00-9F21-9A208E3B77D4\"><iframe src=\"https://westads.simpli.fi/ads/2018557/17466974/ad.html?sifi=7527,2018557,17466974,0,28,0,0,0,0,212,1,v,18.73652,1.441271,0,0,0,7,170DD2F58894D0E710DC9C1F5A516B4B,0,0,316018,1,400,1,9456,0,604,0,703,sjbid45:9014-1597062510508-239174235,1,0,1711707,7,1,25,9516388,23188,0,0.00,1,210400410932680,1155973657,0,0,0,1,-4,0,114,,0,274497,4751965472,1,-1,25,155975,2,127,4793846&sifi_exchange_uid=306BDD5B-3216-4AF4-9583-DF73F3CB911B&request_id=E09BE939-3DB6-4125-8230-ECF39FB4DDF6\" width=\"320\" height=\"50\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></span> <!-- PubMatic Ad Ends -->",
+		"tracking_url": "http://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=155975&siteId=652419&adId=2579818&adType=2&adServerId=243&kefact=1.008889&kaxefact=1.008889&kadNetFrequecy=0&kadwidth=320&kadheight=50&kadsizeid=31&kltstamp=1597062510&indirectAdId=0&adServerOptimizerId=2&ranreq=0.1&kpbmtpfact=1.441271&dcId=1&tldId=60616712&passback=0&svr=ADS77402U&adsver=_2519564419&adsabzcid=0&ekefact=bj0xX1HLCAABocSrsXmafI8cJl1E-28EAtFe6bOChVV1CRCc&ekaxefact=bj0xX2TLCADgkvpJFVWN8K5W14nI1Py9G_EzT-qaU-hAEBgJ&ekpbmtpfact=bj0xX3XLCACPGF3VwiwvHfIP3cgViVFdny-_bGI6XqfTYvZW&enpp=bj0xX4XLCAAxNTJLSjnR3Tk8YLQgGdUSLUgwT9myPKTC9Loc&pubBuyId=6469&crID=17466974&lpu=furminator.com&ucrid=7675232407373564329&campaignId=19421&creativeId=0&pctr=0.000000&wDSPByrId=1&wDspId=148&wbId=6&wrId=0&wAdvID=30835&wDspCampId=2018557&isRTB=1&rtbId=E09BE939-3DB6-4125-8230-ECF39FB4DDF6&imprId=C2BE0E5A-37C8-4F00-9F21-9A208E3B77D4&oid=C2BE0E5A-37C8-4F00-9F21-9A208E3B77D4&mobflag=1&ismobileapp=1&modelid=8&osid=206&udidtype=9&cntryId=232&pAuSt=2",
+		"click_tracking_url": "https://clicktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=3&clickData=aHR0cHM6Ly9jbGlja3RyYWNrLnB1Ym1hdGljLmNvbS9BZFNlcnZlci9BZERpc3BsYXlUcmFja2VyU2VydmxldD9vcGVySWQ9MyZwdWJJZD0xNTU5NzUmc2l0ZUlkPTY1MjQxOSZhZElkPTI1Nzk4MTgmdGxkSWQ9NjA2MTY3MTImcGFzc2JhY2s9MCZhZFNlcnZlcklkPTI0MyZpbXBpZD1DMkJFMEU1QS0zN0M4LTRGMDAtOUYyMS05QTIwOEUzQjc3RDQmbW9iZmxhZz0xJmlzbW9iaWxlYXBwPTEmb3NpZD0yMDYma2Fkc2l6ZWlkPTMxJmNhbXBhaWduSWQ9MTk0MjEmY3JlYXRpdmVJZD0wJnVjcmlkPTc2NzUyMzI0MDczNzM1NjQzMjk=&url=",
+		"landing_page": "furminator.com",
+		"creative_id": "17466974",
+		"crtype": 7,
+		"iurl": "http://westads.simpli.fi/ads/2018557/17466974/_p.jpg",
+		"dsp_camp_id": "2018557",
+		"pm_buyer_id": 6469,
+		"advertiser_id": 30835,
+		"domain_id": 163932,
+		"iabcategory_id": ["IAB16-7", "IAB16"],
+		"dsp_id": 148,
+		"campaign_id": 19421,
+		"autorefresh_time": 0,
+		"prefetch_data": 0,
+		"lyrenc": 0
+	}
+}
