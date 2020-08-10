@@ -1,0 +1,128 @@
+< script type = "text/javascript" >
+ 	rubicon_cb = Math.random();
+ rubicon_rurl = document.referrer;
+ if (top.location == document.location) {
+ 	rubicon_rurl = document.location;
+ }
+ rubicon_rurl = escape(rubicon_rurl);
+ window.rubicon_ad = "4206888" + "." + "js";
+ window.rubicon_creative = "4675854" + "." + "js"; <
+ /script> <
+ div data - rp - type = "trp-display-creative"
+ data - rp - impression - id = "e4226116-03de-4d1d-9a4f-7d67ae1c786d"
+ data - rp - aqid = "3778:4117796652"
+ data - rp - acct - id = "17328" >
+ 	<
+ 	div style = "width: 0; height: 0; overflow: hidden;" > < img border = "0"
+ width = "1"
+ height = "1"
+ src = "https://beacon-us-west.rubiconproject.com/beacon/d/e4226116-03de-4d1d-9a4f-7d67ae1c786d?oo=0&accountId=17328&siteId=169752&zoneId=818586&sizeId=15&e=6A1E40E384DA563B07626F4196F5D42A97A0C398E3368E8C2DB73DABEFBAED0BA7730685F44407832449076BAC203344B3ED78B3EE91669BF8FE6F3C8DF55BCD8FCCB3FB2F6E66618C2619EA2DC4CBEBD995C213C7F238A1A87E949AFC9DBA246D1001F52C308DC0B5F2F9F81AD0EA7EA3419AC8E610402E20B7BF7D138F33225F20B26397FF9756970053AB21C580CC0C048D314F586405FC3BE8685EBA97EB51222C6053CA1C079D60D2C83E8F1D2A067632BAA1E78FE2F3DA3CEA219CDC8681D6508B27016C73F1FD176E2260DFAE"
+ alt = "" / > < /div>
+
+ 	<
+ 	img src = "https://rtb-lb-event-sjc-1b-tm.everesttech.net/rtb/e.png?e=win&aid=bcf7055844e06b266137d6c636d6f7c640161df3_15.1&cp=2327704&slot=1&x_price=16C033B31412B1F8&ets=1597053759040&tz=America%2FNew_York&source=rubicon&suid=89dcdc96-c7f1-4cfb-8583-fafb604a1324&country=US&region=CT&mc=48&ap=0&ut=0&vis=UNKNOWN&site=hSQmhIPQkoFx03Cs9sCd&bp=1719330&curr=USD&exr=1.0&fid=btXxJqnWClDtkAjBpZEd&c=4117796652&ccurr=USD&cuxr=1.0&a=460635&ca=708719&st=DISPLAY&sh=250&sw=300&rid=4185&mp=163&psk=hSQmhIPQkoFx03Cs9sCd&cfc=0&cfci=0&dur=-1&cityid=-1&metroid=84&countryid=232&postalid=2320&did=89dcdc96-c7f1-4cfb-8583-fafb604a1324&didtype=ADVERTISING_ID&duration=30&v=1&auth=zKSE7zCJNtiIoMTEBG-mRfW1ABk&x_r=qNHCDA"
+ style = "height: 0px; display: block;" / > < script >
+ 	var proto = document.location.protocol;
+ if (proto != 'https:') proto = 'http:';
+ if (typeof tm_param_array == 'undefined') tm_param_array = [];
+ tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"] = {
+ 	"ifd": {
+ 		getIframeData: function(g, d) {
+ 			var c = {
+ 					count: d.count,
+ 					burl: d.burl,
+ 					rurl: d.rurl
+ 				},
+ 				a, b, h;
+ 			try {
+ 				if (g.location && g.location.href) {
+ 					b = g.location.href;
+ 					if (!!b) {
+ 						c.burl = b
+ 					}
+ 				}
+ 			} catch (f) {}
+ 			try {
+ 				a = g.document.referrer;
+ 				c.count = 0
+ 			} catch (f) {
+ 				c.count++
+ 			}
+ 			if (!!a) {
+ 				c.rurl = a
+ 			}
+ 			if (g != top) {
+ 				h = this.getIframeData(g.parent, c)
+ 			} else {
+ 				h = c
+ 			}
+ 			return h
+ 		},
+ 		getRurl: function() {
+ 			var c = this.getIframeData(window, {
+ 					count: 0,
+ 					burl: window.location.href,
+ 					rurl: null
+ 				}),
+ 				a = "Unknown";
+ 			try {
+ 				a = this.redactUserInfo(c.rurl.toString())
+ 			} catch (b) {}
+ 			return a
+ 		},
+ 		getBurl: function() {
+ 			var a = this.getIframeData(window, {
+ 					count: 0,
+ 					burl: window.location.href,
+ 					rurl: null
+ 				}),
+ 				b = "Unknown";
+ 			b = this.redactUserInfo(a.burl.toString());
+ 			return b
+ 		},
+ 		getWd: function() {
+ 			var c = this.getIframeData(window, {
+ 					count: 0,
+ 					burl: window.location.href,
+ 					rurl: null
+ 				}),
+ 				a = -1;
+ 			try {
+ 				a = parseInt(c.count)
+ 			} catch (b) {}
+ 			return a
+ 		},
+ 		redactUserInfo: function(a) {
+ 			if (a.indexOf("facebook.com/") > -1) {
+ 				var b = a.split("?");
+ 				a = b[0] + "---REDACTED_FOR_PRIVACY---"
+ 			}
+ 			return a
+ 		}
+ 	},
+ 	"auction_id": "bcf7055844e06b266137d6c636d6f7c640161df3_15.1",
+ 	"impUrl": "https://statsf-tm.everesttech.net/stats/1/imp?sessId=bcf7055844e06b266137d6c636d6f7c640161df3_15.1&cpKey=eDJt1GWf6AttmNWOWMMi&mpKey=btXxJqnWClDtkAjBpZEd&adKey=OS89E6WPaVXoahkgIPaM&psId=hSQmhIPQkoFx03Cs9sCd&burl=${TM_BROWSER_URL}&w=300&h=250&bi=B09UzhGQizGQylpN9UmooLiPwVS5Ts3XrPEUiOjO72MlqOzggKlrJmljdiMNGkWA3yY5UyywQmED324K3q93lu3cFXk1sNa1I4Ssu8e3TIAUBJs4IpO7kuay-6eRp2-CwVLBi8EDXxY2zsehSzhAN5KCUvESkC84rbE5zlMa2nYngJontVfIfGvLypAWOtbUpyGOu6FbHi6YpARfWZ3zPie6wNkXolMjgiTB3ix41Ic7NnxHRVbwqvwy9zyAmEFIGzM&price=16C033B31412B1F8&PG=F&did=89dcdc96-c7f1-4cfb-8583-fafb604a1324&didtype=ADVERTISING_ID&seller_id=17328&campaignKey=fcB1aBCXwvDVgjFyPXBF&bidderZone=tm-sjc-1b&bidderHost=rtb-bidder-display06&bidderGroup=rtb-bidder-display&env=app&conn=wifi&s=H4sIAAAAAAAAAAHQAC__COT41N_HRUmk2xMow8B7FdpAnE3iL4iHmnkE2LQc_4ziRcYoj6U_imBDlyYRoGl5dnwTqQ8GFvmmGqu8Z6QkNLUzkj0QZliUfhbuWP1CgmiRv90I3CHI8PBUYrlWdNKeBhAKUkqMP-SYvYf4BYDHUXf7QhS_8Xg8EW7tAD5GMN5InJy9NP6pwQv-fVH_sDP2aAX_OBvozyMgEYSP5giYsIYTgsoG_YfBJK44af1Nz2YcPqP90X5tfzb39jTj8TEfEilnDKgaMpxmMYfvO0fpfk2zji3QAAAA&date=1597053759041&auth=e7a9e4b4e59ebd9f817c53634e6b39a7&vinst=t",
+ 	"clickUrl": "http%3A%2F%2Fbeacon-nf.rubiconproject.com%2Fbeacon%2Fv2%2Frs%2F0%2Fe4226116-03de-4d1d-9a4f-7d67ae1c786d%2F0%2FnkGSWzTHpyyfDzQ0HV6anZ0eTzQ%2F",
+ 	"zeroTime": Number(new Date()),
+ 	"proto": proto,
+ 	"winPrice": "16C033B31412B1F8",
+ 	"winViewUrl": "https://rtb-lb-event-sjc-1b-tm.everesttech.net/rtb/e.png?e=view&aid=bcf7055844e06b266137d6c636d6f7c640161df3_15.1&cp=2327704&slot=1&x_price=16C033B31412B1F8&ets=1597053759040&tz=America%2FNew_York&source=rubicon&country=US&region=CT&mc=48&ap=0&ut=0&vis=UNKNOWN&site=hSQmhIPQkoFx03Cs9sCd&fid=btXxJqnWClDtkAjBpZEd&c=4117796652&ccurr=USD&cuxr=1.0&a=460635&ca=708719&st=DISPLAY&sh=250&sw=300&rid=4185&mp=163&psk=hSQmhIPQkoFx03Cs9sCd&cityid=-1&metroid=84&countryid=232&postalid=2320&did=89dcdc96-c7f1-4cfb-8583-fafb604a1324&didtype=ADVERTISING_ID&v=1&auth=k9kc4gqFUf8TZbbMn_IMQ6u-ZXs&x_r=fR8wRg"
+ };
+ if (!!tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].impUrl) {
+ 	tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].impUrl = tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].impUrl.replace("${TM_BROWSER_URL}", encodeURIComponent(tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].ifd.getBurl()));
+ 	tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].impUrl += '&rurl=' + encodeURIComponent(tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].ifd.getRurl()) + '&wd=' + tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].ifd.getWd();
+ }
+ var img = new Image();
+ img.src = tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"].impUrl;
+ tm_params = tm_param_array["bcf7055844e06b266137d6c636d6f7c640161df3_15.1"]; < /script><script type="text/javascript
+ " src="
+ https: //displayf-tm.everesttech.net/feed/placement.js?id=btXxJqnWClDtkAjBpZEd&site_id=hSQmhIPQkoFx03Cs9sCd&rand=5637338162572772520&tm_auction_id=bcf7055844e06b266137d6c636d6f7c640161df3_15.1&tm_user_id=89dcdc96-c7f1-4cfb-8583-fafb604a1324&did=89dcdc96-c7f1-4cfb-8583-fafb604a1324&didtype=ADVERTISING_ID&bi=B09UzhGQizGQylpN9UmooLiPwVS5Ts3XrPEUiOjO72MlqOzggKlrJmljdiMNGkWA3yY5UyywQmED324K3q93lu3cFXk1sNa1I4Ssu8e3TIAUBJs4IpO7kuay-6eRp2-CwVLBi8EDXxY2zsehSzhAN5KCUvESkC84rbE5zlMa2nYngJontVfIfGvLypAWOtbUpyGOu6FbHi6YpARfWZ3zPie6wNkXolMjgiTB3ix41Ic7NnxHRVbwqvwy9zyAmEFIGzM&seller_id=17328&tm_user_agent=Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+10%3B+SM-G965U+Build%2FQP1A.190711.020%29&q=H4sIAAAAAAAAAG2Ru2_TUBTGa5v0kaFUaSqhsJiIoa1kx9ePG7sdUJxHcWlaN48mYqmufa8TN3GcOk6bMHajAxIVQ1UJIXUEhAQLUgeGLkgI_gH4D5hQJwQDFKoKITjDGY70-z5955s4fPL9cCZp7M68fvipkngfic6Hwy7hG77faBPUdXu87Xspy8WYBHwGl0mwQ4IS2e6TXhh7HLn28iOdjFthfbC83all27mwldnSu3fzePbw_gNKjJPccgiWag7MhKG3WlurFYuu-vzF6bOrenytrGp5WDPRRt1HzVbDMFHxgMrmUHvHbaVEHvACO7vidvqDRba6yGY6OPBdzAJhkS0XuSUNKlVW77ttnFo3QYYHmpAG54wozB1RLEYIExsRBWhEUhVNViVLIaJsOcBCWLJOKM6ynbSgKKosEwFaIoRASmNoQwli6KRtKAsAAuxIm0DhwSl1U9WwjW0NcnbaAZxsOxanKqrEOcixoCAjIInyO2oyk9vIlypG2Vhd2jRynylufP_t9Vi8WV73moa53vILA0HK9rReFidGi4SERcJS2sjv-XLrjIqAtCSq36i4Y-sA6dn67k5uo7FVGJp1vbBHT4Qe19uyOWDt0_EgtLiLcjjs9rptNBTgAR3793xMT50XyXvDIUGB5fst3ntKM6jbfUVf2XUd94wuRP8oxyb_phP_NUpOy7zAlSo6J54_XVAFhQPpPcaIjgV9y7X9ztTx12aCqZZzyV9r7jLiAuN6XZ0tBL6XH4Qk6KC2Gbg2KV1QNTds3iHDnjmxz4wcMZdiJ0wqSlfLMTpbSTCKJCXHb6MgdPwAz0cECAQojhaqKyuGuTBWzNSLxmruxqMPzI97bxLTPwG-9bZ15gIAAA**&click_url=http%3A%2F%2Fbeacon-nf.rubiconproject.com%2Fbeacon%2Fv2%2Frs%2F0%2Fe4226116-03de-4d1d-9a4f-7d67ae1c786d%2F0%2FnkGSWzTHpyyfDzQ0HV6anZ0eTzQ%2F&tm_os_group=android&tm_device_group=PHN"></script><noscript><a href="https://www.tubemogul.com"><img src ="https://playtime.tubemogul.com/adtags/no_javascript.jpg" w="300" h="250"></a><img src="https://statsf-tm.everesttech.net/stats/1/imp?sessId=bcf7055844e06b266137d6c636d6f7c640161df3_15.1&cpKey=eDJt1GWf6AttmNWOWMMi&mpKey=btXxJqnWClDtkAjBpZEd&adKey=OS89E6WPaVXoahkgIPaM&psId=hSQmhIPQkoFx03Cs9sCd&w=300&h=250&bi=B09UzhGQizGQylpN9UmooLiPwVS5Ts3XrPEUiOjO72MlqOzggKlrJmljdiMNGkWA3yY5UyywQmED324K3q93lu3cFXk1sNa1I4Ssu8e3TIAUBJs4IpO7kuay-6eRp2-CwVLBi8EDXxY2zsehSzhAN5KCUvESkC84rbE5zlMa2nYngJontVfIfGvLypAWOtbUpyGOu6FbHi6YpARfWZ3zPie6wNkXolMjgiTB3ix41Ic7NnxHRVbwqvwy9zyAmEFIGzM&price=16C033B31412B1F8&PG=F&did=89dcdc96-c7f1-4cfb-8583-fafb604a1324&didtype=ADVERTISING_ID&seller_id=17328&campaignKey=fcB1aBCXwvDVgjFyPXBF&bidderZone=tm-sjc-1b&bidderHost=rtb-bidder-display06&bidderGroup=rtb-bidder-display&env=app&conn=wifi&s=H4sIAAAAAAAAAAHQAC__COT41N_HRUmk2xMow8B7FdpAnE3iL4iHmnkE2LQc_4ziRcYoj6U_imBDlyYRoGl5dnwTqQ8GFvmmGqu8Z6QkNLUzkj0QZliUfhbuWP1CgmiRv90I3CHI8PBUYrlWdNKeBhAKUkqMP-SYvYf4BYDHUXf7QhS_8Xg8EW7tAD5GMN5InJy9NP6pwQv-fVH_sDP2aAX_OBvozyMgEYSP5giYsIYTgsoG_YfBJK44af1Nz2YcPqP90X5tfzb39jTj8TEfEilnDKgaMpxmMYfvO0fpfk2zji3QAAAA&date=1597053759041&auth=e7a9e4b4e59ebd9f817c53634e6b39a7&vinst=t&noscript=t" width="0" height="0"></noscript>
+ 	<
+ 	/div>
+
+
+
+
+
+
+ "
