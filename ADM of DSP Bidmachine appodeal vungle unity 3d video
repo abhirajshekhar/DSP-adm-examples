@@ -1,0 +1,118 @@
+"<?xml version='1.0' encoding='utf-8'?>\n
+<VAST version=\"3.0\">
+   <Ad id=\"c964282f-af8f-4eab-8a51-45d213cd02ce\">
+      <InLine>
+         <AdSystem>Liftoff</AdSystem>
+         <AdTitle>107731</AdTitle>
+         <Impression id=\"354b8252-e5d9-4f50-add6-06531895ab43\">
+            <![CDATA[https://api-us.bidmachine.io/track/event?trm=20&token=1bccb8d336b7a3c7b0bd651af7735f15fb00ab77f287b65fb6b7ddb78a93408f&event_code=501&context=eyJiaWRSZXF1ZXN0SWQiOiI2NDcxYzk5Yi03ZWM5LTQwMzktOTcxZC05MzIxOWM4NmZhZmIiLCJvcmlnaW5hbEJpZEZsb29yIjo2LjM5MTQyODU3MSwiYmlkRmxvb3IiOjguMzA4OSwiYmlkUHJpY2UiOjkuOTczMjEyLCJzc3BCaWRQcmljZSI6Ny45Nzg2LCJjbGVhcmluZ1ByaWNlIjo5Ljk3MzIxMiwic3NwSW5jb21lIjo3Ljk3ODYsImF1Y3Rpb25GbG9vclNvdXJjZSI6Im9yaWdpbmFsIiwiYmlkZGVyRmxvb3JTb3VyY2UiOiJvcmlnaW5hbCIsInRpbWVzdGFtcCI6IjIwMjAtMDgtMTNUMTA6MDY6MTIuNDEyWiIsImV4cGlyZXNBdCI6IjIwMjAtMDgtMTNUMTE6MDY6MTIuNDEyWiIsImFnZW5jeUlkIjo4MCwic2VsbGVySWQiOjU1LCJzb3VyY2VJZCI6MTM4LCJiaWRkZXJJZCI6Mzk4LCJhcHBCdW5kbGUiOiIxNTE4MjY3NjQyIiwiYXBwSWQiOjE3MzE3NzUsImFwcElkUmF3IjoiMTczMTc3NSIsImFwcE5hbWUiOiJTY3JpYmJsZSBSaWRlciIsImFwcENhdCI6WyJJQUI5Il0sInNzcEF1Y3Rpb25UeXBlIjoxLCJjb3VudHJ5IjoiVVMiLCJkZXZpY2VPcyI6ImlvcyIsImRldmljZU9zVmVyc2lvbiI6IjEzLjYuMSIsImRldmljZUlwIjoiNjguMTk2LjgzLjk5IiwiZGV2aWNlQ29ubmVjdGlvblR5cGUiOjIsImRldmljZVR5cGUiOjQsImRpcmVjdFJlbGF0aW9uQWdlbmN5IjpmYWxzZSwiYWRUeXBlIjoic2tpcHBhYmxlX3ZpZGVvIiwiYWRTaXplIjoiMzIweDQ4MCIsImV4dGVybmFsQWdlbmN5SWQiOjExNTMwLCJleHRlcm5hbFB1Ymxpc2hlcklkIjoxMDA3MTEyLCJpZmEiOiJEOENGMTVBNC1DMjJDLTRFQTctQjNEQy1CM0REMUU5Qjk0MkEiLCJpbnRlZ3JhdGlvblR5cGUiOiJydGIyIiwibXVsdGlGbG9vclJlcSI6ZmFsc2UsImRpc3BsYXlNYW5hZ2VyIjoidmFzdCIsImFkb21haW4iOlsiZ3JhbW1hcmx5LmNvbSJdLCJjaWQiOiIxMTk3NzciLCJjcmlkIjoiMTA3NzMxIiwiY2F0IjpbIklBQjktMTMiXSwiaGVhZGVyQmlkZGluZyI6Im5vdF9zcGVjaWZpZWQiLCJhZE5ldHdvcmsiOmZhbHNlLCJhZE5ldHdvcmtOYW1lIjoib3BlbnJ0Yl9nemlwIiwiZ2RwciI6ZmFsc2UsInJld2FyZCI6ZmFsc2UsImltcG9ydCI6dHJ1ZSwiY2hhcmdlU2NoZW1hIjoiaW1wcmVzc2lvbiJ9&nurl=Imh0dHBzOi8vaW1wcmVzc2lvbi1ldXJvcGUubGlmdG9mZi5pby9hcHBvZGVhbC93aW5fbm90aWNlP2FkX2dyb3VwX2lkPTExOTc3NyZjaGFubmVsX2lkPTM5JmNyZWF0aXZlX2lkPTEwNzczMSZkZXZpY2VfaWRfc2hhMT0xMTZiMjcwN2NkMDI5OTFjODNhMTA1ZjZhMDFhODY3MDRkNGE4YzhkJnNvdXJjZV9hcHBfc3RvcmVfaWQ9MTUxODI2NzY0MiZiaWRfdHM9MTU5NzMxMzE3MjM0NCZhdWN0aW9uX2lkPTY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYiZhdWN0aW9uX3ByaWNlPTkuOTczMjEyJm9yaWdpbj1oYWdnbGVyLWFwcG9kZWFsMDM4Ig%3D%3D&ssp_clear_price=${AUCTION_PRICE}&trackers=W10%3D]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://impression-europe.liftoff.io/appodeal/beacon?ad_group_id=119777&channel_id=39&creative_id=107731&auction_id=6471c99b-7ec9-4039-971d-93219c86fafb&origin=haggler-appodeal038]]>
+         </Impression>
+         <Error>
+            <![CDATA[https://api-us.bidmachine.io/track/event?event_code=1000&error=%5BERRORCODE%5D&context=eyJiaWRSZXF1ZXN0SWQiOiI2NDcxYzk5Yi03ZWM5LTQwMzktOTcxZC05MzIxOWM4NmZhZmIiLCJvcmlnaW5hbEJpZEZsb29yIjo2LjM5MTQyODU3MSwiYmlkRmxvb3IiOjguMzA4OSwiYmlkUHJpY2UiOjkuOTczMjEyLCJzc3BCaWRQcmljZSI6Ny45Nzg2LCJjbGVhcmluZ1ByaWNlIjo5Ljk3MzIxMiwic3NwSW5jb21lIjo3Ljk3ODYsImF1Y3Rpb25GbG9vclNvdXJjZSI6Im9yaWdpbmFsIiwiYmlkZGVyRmxvb3JTb3VyY2UiOiJvcmlnaW5hbCIsInRpbWVzdGFtcCI6IjIwMjAtMDgtMTNUMTA6MDY6MTIuNDEyWiIsImFnZW5jeUlkIjo4MCwic2VsbGVySWQiOjU1LCJiaWRkZXJJZCI6Mzk4LCJhcHBCdW5kbGUiOiIxNTE4MjY3NjQyIiwiYXBwSWQiOjE3MzE3NzUsImFwcElkUmF3IjoiMTczMTc3NSIsImFwcE5hbWUiOiJTY3JpYmJsZSBSaWRlciIsImNvdW50cnkiOiJVUyIsImRldmljZU9zIjoiaW9zIiwiZGV2aWNlT3NWZXJzaW9uIjoiMTMuNi4xIiwiYWRUeXBlIjoic2tpcHBhYmxlX3ZpZGVvIiwiZXh0ZXJuYWxBZ2VuY3lJZCI6MTE1MzAsImlmYSI6IkQ4Q0YxNUE0LUMyMkMtNEVBNy1CM0RDLUIzREQxRTlCOTQyQSIsImRpc3BsYXlNYW5hZ2VyIjoidmFzdCIsImNpZCI6IjExOTc3NyIsImNyaWQiOiIxMDc3MzEiLCJhZE5ldHdvcmsiOmZhbHNlLCJnZHByIjpmYWxzZX0%3D]]>
+         </Error>
+         <Error>
+            <![CDATA[https://adexp.liftoff.io/vast_errors?at=&exchange=39&ad-group-id=119777&creative-id=107731&auction-id=6471c99b-7ec9-4039-971d-93219c86fafb&device-id=D8CF15A4-C22C-4EA7-B3DC-B3DD1E9B942A&device-id-sha1=116b2707cd02991c83a105f6a01a86704d4a8c8d&device-id-type=1&device-family=1&device-model=iPhone%2BUnknown&device-language=en&device-ip=68.196.83.99&non-personalized=false&os-version=13.6.1&source-app-store-id=1518267642&targeted-city-id=&targeted-country-id=184&bid-ts=1597313172344&source-app-name=Scribble%2BRider&creative-tests=1207&doubleclick-source-app-category-ids=&do-not-track=false&prevent-redirect=&using-fnf=&vast_error_code=%5BERRORCODE%5D&asset_url=%5BASSETURI%5D]]>
+         </Error>
+         <Extensions>
+            <Extension type=\"MoPub\">
+               <MoPubForceOrientation>Portrait</MoPubForceOrientation>
+            </Extension>
+         </Extensions>
+         <Creatives>
+            <Creative>
+               <Linear>
+                  <Duration>00:00:15.000</Duration>
+                  <MediaFiles>
+                     <MediaFile bitrate=\"1132\" delivery=\"progressive\" type=\"video/mp4\" width=\"360\" height=\"640\">
+                        <![CDATA[https://cdn.liftoff.io/customers/78a02376f9/videos/mobile/6496c8232f.mp4]]>
+                     </MediaFile>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickThrough>
+                        <![CDATA[https://click.liftoff.io/v1/campaign_click/oxhc6jKd7EMiqeK72ZIzBRFX-ZBTzbF41WrjsCZVP2VaqNNZdG9ss3iCgT-MT9eYJT_NZAz6rQDnslCY-fZErwKQpeWJMOVj-bTiNL58D0iVSgINIa7Gy2Ezrhy7Ey6o4Y6n-a03WX3sXpped09VYS3I7Bm76I-6m_njwtOCHepWBToW-yb5BJtOkcf6vDJxtbNDH8FUvilsqaJzEjANJnOTxQYFIl-fmw0-PCEvc3TEmPl9qZnXsB2FK-A3dk2ke_y6RCNAr27-xwi_gWvIQuRirZtIr9S8jebNxZkdAHFxXARS-X-y1GenU1udEd7kAkxTPjKv56cNjKCOtB5V9A?vast_el=1]]>
+                     </ClickThrough>
+                     <ClickTracking id=\"354b8252-e5d9-4f50-add6-06531895ab43\">
+                        <![CDATA[https://api-us.bidmachine.io/track/event?context=eyJiaWRSZXF1ZXN0SWQiOiI2NDcxYzk5Yi03ZWM5LTQwMzktOTcxZC05MzIxOWM4NmZhZmIiLCJvcmlnaW5hbEJpZEZsb29yIjo2LjM5MTQyODU3MSwiYmlkRmxvb3IiOjguMzA4OSwiYmlkUHJpY2UiOjkuOTczMjEyLCJzc3BCaWRQcmljZSI6Ny45Nzg2LCJjbGVhcmluZ1ByaWNlIjo5Ljk3MzIxMiwic3NwSW5jb21lIjo3Ljk3ODYsImF1Y3Rpb25GbG9vclNvdXJjZSI6Im9yaWdpbmFsIiwiYmlkZGVyRmxvb3JTb3VyY2UiOiJvcmlnaW5hbCIsInRpbWVzdGFtcCI6IjIwMjAtMDgtMTNUMTA6MDY6MTIuNDEyWiIsImV4cGlyZXNBdCI6IjIwMjAtMDgtMTNUMTE6MDY6MTIuNDEyWiIsImFnZW5jeUlkIjo4MCwic2VsbGVySWQiOjU1LCJzb3VyY2VJZCI6MTM4LCJiaWRkZXJJZCI6Mzk4LCJhcHBCdW5kbGUiOiIxNTE4MjY3NjQyIiwiYXBwSWQiOjE3MzE3NzUsImFwcElkUmF3IjoiMTczMTc3NSIsImFwcE5hbWUiOiJTY3JpYmJsZSBSaWRlciIsImFwcENhdCI6WyJJQUI5Il0sInNzcEF1Y3Rpb25UeXBlIjoxLCJjb3VudHJ5IjoiVVMiLCJkZXZpY2VPcyI6ImlvcyIsImRldmljZU9zVmVyc2lvbiI6IjEzLjYuMSIsImRldmljZUlwIjoiNjguMTk2LjgzLjk5IiwiZGV2aWNlQ29ubmVjdGlvblR5cGUiOjIsImRldmljZVR5cGUiOjQsImRpcmVjdFJlbGF0aW9uQWdlbmN5IjpmYWxzZSwiYWRUeXBlIjoic2tpcHBhYmxlX3ZpZGVvIiwiYWRTaXplIjoiMzIweDQ4MCIsImV4dGVybmFsQWdlbmN5SWQiOjExNTMwLCJleHRlcm5hbFB1Ymxpc2hlcklkIjoxMDA3MTEyLCJpZmEiOiJEOENGMTVBNC1DMjJDLTRFQTctQjNEQy1CM0REMUU5Qjk0MkEiLCJpbnRlZ3JhdGlvblR5cGUiOiJydGIyIiwibXVsdGlGbG9vclJlcSI6ZmFsc2UsImRpc3BsYXlNYW5hZ2VyIjoidmFzdCIsImFkb21haW4iOlsiZ3JhbW1hcmx5LmNvbSJdLCJjaWQiOiIxMTk3NzciLCJjcmlkIjoiMTA3NzMxIiwiY2F0IjpbIklBQjktMTMiXSwiaGVhZGVyQmlkZGluZyI6Im5vdF9zcGVjaWZpZWQiLCJhZE5ldHdvcmsiOmZhbHNlLCJhZE5ldHdvcmtOYW1lIjoib3BlbnJ0Yl9nemlwIiwiZ2RwciI6ZmFsc2UsInJld2FyZCI6ZmFsc2UsImltcG9ydCI6dHJ1ZSwiY2hhcmdlU2NoZW1hIjoiaW1wcmVzc2lvbiJ9&trm=20&token=bbe9df208eb85763182283713c72474dc6e9f9b369dc3df7dbc27acc3d179d0e&event_code=503&ssp_clear_price=${AUCTION_PRICE}&trackers=W10%3D]]>
+                     </ClickTracking>
+                  </VideoClicks>
+                  <TrackingEvents>
+                     <Tracking event=\"creativeView\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/creativeView/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"start\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/start/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"firstQuartile\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/firstQuartile/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"midpoint\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/midpoint/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"thirdQuartile\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/thirdQuartile/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"complete\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/complete/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"mute\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/mute/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"unmute\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/unmute/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"pause\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/pause/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"rewind\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/rewind/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"resume\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/resume/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"fullscreen\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/fullscreen/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"exitFullscreen\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/exitFullscreen/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"expand\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/expand/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"collapse\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/collapse/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"acceptInvitationLinear\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/acceptInvitationLinear/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"closeLinear\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/closeLinear/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"skip\">
+                        <![CDATA[https://adexp.liftoff.io/event/vast/skip/3ed982HwjhpwcSJDY0NzFjOTliLTdlYzktNDAzOS05NzFkLTkzMjE5Yzg2ZmFmYhighKO6vi4gJyjTyQYwzg46CjE1MTgyNjc2NDJCH3Zhc3QtdHJhY2tpbmctZXZlbnRzLWV4cGVyaW1lbnRKCjUyNTkzNTY4YjFQAloDVVNBYAFoAHIMZXUtY2VudHJhbC0xgAEnkgECZW6YAQGhATMzMzMzM7M_qgEHMzIweDQ4MLIBBUdhbWVzugEOU2NyaWJibGUgUmlkZXLCARl2YXN0LWM2MzVlNTUyY2Y2NDZjZDJjMjMy0gEFMDc2MjE?playhead=%5BCONTENTPLAYHEAD%5D]]>
+                     </Tracking>
+                     <Tracking event=\"complete\">
+                        <![CDATA[https://api-us.bidmachine.io/track/event?context=eyJiaWRSZXF1ZXN0SWQiOiI2NDcxYzk5Yi03ZWM5LTQwMzktOTcxZC05MzIxOWM4NmZhZmIiLCJvcmlnaW5hbEJpZEZsb29yIjo2LjM5MTQyODU3MSwiYmlkRmxvb3IiOjguMzA4OSwiYmlkUHJpY2UiOjkuOTczMjEyLCJzc3BCaWRQcmljZSI6Ny45Nzg2LCJjbGVhcmluZ1ByaWNlIjo5Ljk3MzIxMiwic3NwSW5jb21lIjo3Ljk3ODYsImF1Y3Rpb25GbG9vclNvdXJjZSI6Im9yaWdpbmFsIiwiYmlkZGVyRmxvb3JTb3VyY2UiOiJvcmlnaW5hbCIsInRpbWVzdGFtcCI6IjIwMjAtMDgtMTNUMTA6MDY6MTIuNDEyWiIsImV4cGlyZXNBdCI6IjIwMjAtMDgtMTNUMTE6MDY6MTIuNDEyWiIsImFnZW5jeUlkIjo4MCwic2VsbGVySWQiOjU1LCJzb3VyY2VJZCI6MTM4LCJiaWRkZXJJZCI6Mzk4LCJhcHBCdW5kbGUiOiIxNTE4MjY3NjQyIiwiYXBwSWQiOjE3MzE3NzUsImFwcElkUmF3IjoiMTczMTc3NSIsImFwcE5hbWUiOiJTY3JpYmJsZSBSaWRlciIsImFwcENhdCI6WyJJQUI5Il0sInNzcEF1Y3Rpb25UeXBlIjoxLCJjb3VudHJ5IjoiVVMiLCJkZXZpY2VPcyI6ImlvcyIsImRldmljZU9zVmVyc2lvbiI6IjEzLjYuMSIsImRldmljZUlwIjoiNjguMTk2LjgzLjk5IiwiZGV2aWNlQ29ubmVjdGlvblR5cGUiOjIsImRldmljZVR5cGUiOjQsImRpcmVjdFJlbGF0aW9uQWdlbmN5IjpmYWxzZSwiYWRUeXBlIjoic2tpcHBhYmxlX3ZpZGVvIiwiYWRTaXplIjoiMzIweDQ4MCIsImV4dGVybmFsQWdlbmN5SWQiOjExNTMwLCJleHRlcm5hbFB1Ymxpc2hlcklkIjoxMDA3MTEyLCJpZmEiOiJEOENGMTVBNC1DMjJDLTRFQTctQjNEQy1CM0REMUU5Qjk0MkEiLCJpbnRlZ3JhdGlvblR5cGUiOiJydGIyIiwibXVsdGlGbG9vclJlcSI6ZmFsc2UsImRpc3BsYXlNYW5hZ2VyIjoidmFzdCIsImFkb21haW4iOlsiZ3JhbW1hcmx5LmNvbSJdLCJjaWQiOiIxMTk3NzciLCJjcmlkIjoiMTA3NzMxIiwiY2F0IjpbIklBQjktMTMiXSwiaGVhZGVyQmlkZGluZyI6Im5vdF9zcGVjaWZpZWQiLCJhZE5ldHdvcmsiOmZhbHNlLCJhZE5ldHdvcmtOYW1lIjoib3BlbnJ0Yl9nemlwIiwiZ2RwciI6ZmFsc2UsInJld2FyZCI6ZmFsc2UsImltcG9ydCI6dHJ1ZSwiY2hhcmdlU2NoZW1hIjoiaW1wcmVzc2lvbiJ9&trm=20&token=203630359fb3957f5b8d6c83a01a0fdbd1d1a8fec4c25e46421ccd7bcd7bd62a&event_code=604&ssp_clear_price=${AUCTION_PRICE}&trackers=W10%3D]]>
+                     </Tracking>
+                  </TrackingEvents>
+               </Linear>
+            </Creative>
+            <Creative>
+               <CompanionAds>
+                  <Companion width=\"320\" height=\"480\">
+                     <StaticResource creativeType=\"image/png\">
+                        <![CDATA[https://cdn.liftoff.io/customers/946/images/231827318a.png]]>
+                     </StaticResource>
+                     <CompanionClickThrough>
+                        <![CDATA[https://click.liftoff.io/v1/campaign_click/oxhc6jKd7EMiqeK72ZIzBRFX-ZBTzbF41WrjsCZVP2VaqNNZdG9ss3iCgT-MT9eYJT_NZAz6rQDnslCY-fZErwKQpeWJMOVj-bTiNL58D0iVSgINIa7Gy2Ezrhy7Ey6o4Y6n-a03WX3sXpped09VYS3I7Bm76I-6m_njwtOCHepWBToW-yb5BJtOkcf6vDJxtbNDH8FUvilsqaJzEjANJnOTxQYFIl-fmw0-PCEvc3TEmPl9qZnXsB2FK-A3dk2ke_y6RCNAr27-xwi_gWvIQuRirZtIr9S8jebNxZkdAHFxXARS-X-y1GenU1udEd7kAkxTPjKv56cNjKCOtB5V9A?vast_el=2]]>
+                     </CompanionClickThrough>
+                  </Companion>
+               </CompanionAds>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
+"
