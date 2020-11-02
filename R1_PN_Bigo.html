@@ -1,0 +1,28 @@
+<script class=\"pn-ad-tag\" type=\"text/javascript\">
+    (function(beacons, trackerURL, options) {
+            var delay = 1,
+                passed = 0,
+                fired = false,
+                readyBinded = false,
+                viewableBinded = false,
+                deepcut = false;
+            deepcut = Math.random() < .001;
+
+            function fire(url) {
+                (new Image).src = url;
+                return true
+            }
+
+            function track(msg) {
+                if (!trackerURL) return;
+                if (!deepcut) return;
+                fire(trackerURL + encodeURIComponent(msg))
+            }
+
+            function fireAll() {
+                if (fired) return;
+                fired = true;
+                for (var i = 0; i < beacons.length; i++) fire(beacons[i]);
+                track(\"imp P\"+boolToChar(options.isHTML5)+boolToChar(options.isPlMRAID)+boolToChar(options.isMRAID)+boolToChar(typeof mraid===\r\n    \"object\")+boolToChar(window.top===window))}function boolToChar(val){if(typeof val===\"undefined\")return\"N\";return val?\"1\":\"0\"}track(\"inf P\"+boolToChar(options.isHTML5)+boolToChar(options.isPlMRAID)+boolToChar(options.isMRAID)+boolToChar(typeof mraid===\"object\")+boolToChar(window.top===window));window.addEventListener(\"error\",function(event){track(\"er2 WIND \"+event.message);trackDbg()});fireAll()})([\"\",\"https://got.pubnative.net/impression?aid=1645178&t=NIQT3zwD3iAQBPoR2LybU-7yRD34QM-rhMVFc95nMgOSfgtkybXgNajHW_yDfQdLQ69pvRVfqUFfu0j-4c48uNG7Lwqoa7cDGamw10GWklglOENDwJA3BYC2FXlmbJAb3IFOTcGRlwe1ZpllgHyz5Aj73b01Gh0MWdFvv6JCXF1vWjYhkLQU3F_3Wb3O4sLpWW7uM33Cm_mSj6pWmZdhDrBv8USgTkXZzpam64CFbKybz0w0fUu-Q_0QiD-MbyegmwsrxF71TZ3qpcbAoKTS9GcyhTRQSA1RSj2Wq0pSVS0UYIqnNo0_pVZuGFyLfe24hMfpkJhOxL9AAAzxVyH9I1ZYGlbPBdhae2y_ZBc278IpEnOnpEJ5wb6rEaa6ySsMzo0Xy1P-SQ7-ANJq-9-FFO5RIueeJyf9J9LFqOJ1VAW-8S9E_uV5ehajdHUXsxrOypALg9Vlx-RXQxrOiET3qIABNrEql2T80kms35hRPRUjkUZU7PHpMecW8jY-ip75jY61S9ZRieoWgRH3_EvK91cYK8Q_tcszTvF7fnrBxMqHU7uAKbrPng2Mnxf3wNnMdS_7LbqlnQ794LUGg2l5EerNN4uXpP__z7Wj4nQBE9r4SWXAlyypn9SuBW4Z_CJi1GD8GQoWCtmHnfmQvHG6ggFj-tJss7dVpgAcmNZ9RSsZZCnkRRWrkuxIwdD2NQrHigJsaBN6ACrT2aQMEdIfRLSPC6ydK0JDVy8gEePhyQjHcMs0ZJfdBG5mTjoR7wulK4VB5bwx9COKoUm6QX5vjYb3La9AZiXXajPBchekGAqH1zhJEj9slwCwxLo4Ku6r2o94E2vxsIHcKPAwxHBc9R-848PwAMx0Jd9BLrvjJMI1lzqQR1708Dr9hjX2SVukC9Gf5xn99ur6WiBcoJk9FhSpPzDZPRYJbMdao6iToRQ_Ukc_59mJwjo3GCVH7eUSGtmmNySSDs_eirb3EzuWVY0GkMmtF7tffe-yK5Qzua1_Eu7GwlE_PxNegxQ6Zzyq1hT9KkoRuuPB8O_c4NObeJO-LmnzuDoGwg&ap=${AUCTION_PRICE}\"],\"https://got.pubnative.net/imp/error?t=yQJJ_22VHjA_SvBgDXiXoLjBw_9I7gQczLKsemxa_TaZ9S-G6EjTmP7chRvLToI0CXPzRdYi39YW5bGuLMIWdzeaN3lb0VU1yrrKKjzx928SZoxKKbh-Cld5cndQhA30SnM70tSqaqmJcVc-XhMJRVnrwA&msg=\", {\"pubAppID\":1645178,\"dspID\":448,\"impID\":\"5dfd760e-706a-4b9f-90a1-a0703977f371\",\"isMRAID\":false,\"isHTML5\":false});
+
+</script>\r\n<script src='http://a-iad.1rx.io/rtbdeliver/js?excid=pubnative&pickup=a6f16602637b53ccbc3c116eca455f6f&zrk=c0f73dba47d160fedd4be7e61191d94d&zds=f1c5d6e13f6b029af8ea25cf935e43c5&imp=56ed0a212701ebf2ded619bf69287ffc&rtbserve=1&zwp=0.0285&pv=1&prc=ZX0.7100549312547624&extra=1'></script>
